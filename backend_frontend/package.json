@@ -11,10 +11,10 @@
     "web-vitals": "^4.2.4"
   },
   "scripts": {
-    "start": "C:/Users/skell/Downloads/jdbcProject/backend_frontend/node_modules/.bin/react-scripts start",
-    "build": "C:/Users/skell/Downloads/jdbcProject/backend_frontend/node_modules/.bin/react-scripts  build",
-    "test": "C:/Users/skell/Downloads/jdbcProject/backend_frontend/node_modules/.bin/react-scripts  test",
-    "eject": "C:/Users/skell/Downloads/jdbcProject/backend_frontend/node_modules/.bin/react-scripts  eject"
+    "start": "C:/VSC_Code/PlanBmaybe-2/backend_frontend/node_modules/.bin/react-scripts start",
+    "build": "C:/VSC_Code/PlanBmaybe-2/backend_frontend/node_modules/.bin/react-scripts  build",
+    "test": "C:/VSC_Code/PlanBmaybe-2/backend_frontend/node_modules/.bin/react-scripts  test",
+    "eject": "C:/VSC_Code/PlanBmaybe-2/backend_frontend/node_modules/.bin/react-scripts  eject"
   },
   "eslintConfig": {
     "extends": [

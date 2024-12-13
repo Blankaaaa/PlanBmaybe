@@ -18,6 +18,15 @@ const ProfileHistory = () => {
 
     return (
         <div className="profile-history">
+            <header className="header">
+                <div className="logo">Profile History</div>
+                <nav className="navbar">
+                    <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/profile-customization">Customize</a></li>
+                    </ul>
+                </nav>
+            </header>
             <h1>Profile History</h1>
             <div className="photo-gallery">
                 {photos.map((photo) => (

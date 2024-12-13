@@ -67,6 +67,12 @@ const ProfileCustomization = () => {
         <div className="profile-customization">
             <header className="header">
                 <div className="logo">Profile Customizer</div>
+                <nav className="navbar">
+                    <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/profile-history">History</a></li>
+                    </ul>
+                </nav>
             </header>
 
             <div className="profile-section">

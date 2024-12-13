@@ -16,7 +16,7 @@ const HomePage = () => {
                 <div className="logo">Profile Customizer</div>
                 <nav className="navbar">
                     <ul>
-                        <li><a href="/frontend2/public">Home</a></li>
+                        <li><a href="#home">Home</a></li>
                         <li><a href="/profile-customization">Customize</a></li>
                         <li><a href="#features">Features</a></li>
                         <li><a href="#contact">Contact</a></li>
@@ -25,7 +25,7 @@ const HomePage = () => {
             </header>
 
             {/* Hero Section */}
-            <main className="hero">
+            <main id="home" className="hero">
                 <div className="hero-content">
                     <h1>Your Profile, Your Style</h1>
                     <p>Create a personalized profile and customize it with vibrant colors, themes, and more.</p>
